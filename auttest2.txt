@@ -1,1 +1,13 @@
-auttest2
+connector auttest2(){
+	int d;
+	int e;
+	int f;
+	
+	BASIC test;
+	
+	test(d,e,f) : result;
+}
+
+basic test( int p1, int p2, int p3 ) : int result{
+	result = p1 * p2 * p3;
+}
