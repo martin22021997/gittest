@@ -17,5 +17,5 @@ basic sub( int a, int b ) : int result {
 }
 
 basic pow( int num ) : int powered {
-	powered = num * (3*num);
+	powered = num * (300*num);
 }
