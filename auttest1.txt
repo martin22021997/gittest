@@ -5,9 +5,17 @@ connector auttest1(){
 	
 	BASIC sub;
 	
+	BASIC pow;
+	
 	sub(a,b+c) : result;
+	
+	pow(result) : powered;
 }
 
 basic sub( int a, int b ) : int result {
 	result = a - b;
+}
+
+basic pow( int num ) : int powered {
+	powered = num * num;
 }
