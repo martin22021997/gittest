@@ -13,9 +13,11 @@ connector auttest1(){
 }
 
 basic sub( int a, int b ) : int result {
-	result = 20*a - b;
+	//doc1
+	result = 20*a - 40*b;
 }
 
 basic pow( int num ) : int powered {
-	powered = num * (300*num);
+	//doc2
+	powered = (400*num) * (300*num);
 }

@@ -1,0 +1,55 @@
+*   [33mcommit 5e98e4dd6dc40515a77e74ec0a6ca720d0722bc3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m[32m\[m  Merge: 58ccdc0 364a7f6
+[31m|[m [32m|[m Author: Martin Gnahn <Martin>
+[31m|[m [32m|[m Date:   Tue May 26 11:21:41 2020 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branches 'branch2' and 'branch3'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 364a7f634380600d4ceb8db6359084a9317648c3[m[33m ([m[1;31morigin/branch3[m[33m, [m[1;32mbranch3[m[33m)[m
+[31m|[m [32m|[m Author: Martin Gnahn <Martin>
+[31m|[m [32m|[m Date:   Tue May 26 11:17:44 2020 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     branchnew
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 58ccdc06472a5be383bcc2a5d1990cdba6417d0e[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+[32m|[m[32m/[m  Author: Martin Gnahn <Martin>
+[32m|[m   Date:   Tue May 26 11:14:14 2020 +0200
+[32m|[m   
+[32m|[m       branch2
+[32m|[m   
+*   [33mcommit 260b98b12b3901d05996fdef3626932005e45e70[m
+[33m|[m[34m\[m  Merge: e8bb9c1 5930c97
+[33m|[m [34m|[m Author: Martin Gnahn <Martin>
+[33m|[m [34m|[m Date:   Tue May 26 11:08:08 2020 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'update2'
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 5930c975c8b797b3bb2ae4d07a2aa89e0f87fa67[m[33m ([m[1;31morigin/update2[m[33m, [m[1;32mupdate2[m[33m)[m
+[33m|[m [34m|[m Author: Martin Gnahn <Martin>
+[33m|[m [34m|[m Date:   Tue May 26 11:03:23 2020 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Newbranch2
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit e8bb9c191abac5be88da795ac68b8195a5b4964f[m[33m ([m[1;31morigin/update1[m[33m, [m[1;32mupdate1[m[33m)[m
+[34m|[m[34m/[m  Author: Martin Gnahn <Martin>
+[34m|[m   Date:   Tue May 26 10:59:19 2020 +0200
+[34m|[m   
+[34m|[m       Newbranch
+[34m|[m 
+* [33mcommit ea10bc01cd1a6293148a551021fbc27a71dc7898[m
+[34m|[m Author: Martin Gnahn <Martin>
+[34m|[m Date:   Tue May 26 10:51:30 2020 +0200
+[34m|[m 
+[34m|[m     Commit3
+[34m|[m 
+* [33mcommit da4bc058b8b7099cb6606cb4806f3f551ee7e904[m
+[34m|[m Author: Martin Gnahn <Martin>
+[34m|[m Date:   Tue May 26 10:47:06 2020 +0200
+[34m|[m 
+[34m|[m     Commit2
+[34m|[m 
+* [33mcommit 01b389fa2002c525c212dcd4f787e7308a699223[m
+  Author: Martin Gnahn <Martin>
+  Date:   Tue May 26 10:43:10 2020 +0200
+  
+      Commit1
