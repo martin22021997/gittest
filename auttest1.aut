@@ -19,5 +19,6 @@ basic sub( int a, int b ) : int result {
 }
 
 basic pow( int num ) : int powered {
-	powered = num * num;
+	//change2
+	powered = (400*num) * (400*num);
 }
