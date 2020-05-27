@@ -1,0 +1,24 @@
+connector auttest2(){
+	int d;
+	int e;
+	int f;
+	
+	BASIC test;
+	BASIC abs;
+	
+	test(d,e,f) : result;
+	
+	abs(result) : result_abs;
+}
+
+basic test( int p1, int p2, int p3 ) : int result{
+	result = p1 * p2 * p3;
+}
+
+basic abs( int result ) : int result_abs {
+	if( result < 0 ){
+		result_abs = -1 * result;
+	}else{
+		result_abs = result;
+	}
+}
